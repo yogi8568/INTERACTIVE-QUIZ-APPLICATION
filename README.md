@@ -1,6 +1,6 @@
 # INTERACTIVE-QUIZ-APPLICATION
 
-**COMPANY** : COOTECH IT SOLUTIONS
+**COMPANY** : CODTECH IT SOLUTIONS
 
 **NAME** : YOGESH KUMAR
 
@@ -16,3 +16,4 @@
 
 # OUTPUT OF THE TASK
 
+![Image](https://github.com/user-attachments/assets/5096dd43-579f-4c35-9a46-56002b7b4f07)
