@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <header>CODTECH IT QUIZ</header>
+    <title>Quiz App</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+         header {
+              font-size: 100px;
+              font-weight: bold;
+              font-family: 'Times New Roman', Times, serif;
+              text-align: center;
+              color: #17e24a;
+               text-transform: uppercase
+        }
+
+        body {
+            background-image: url('backimg.jpg');
+            background-size: cover;
+            background-position: center;
+            background-attachment: fixed;
+        }
+    </style>
+</head>
+<body>
+    <div id="quiz-container">
+        <h2 id="question"></h2>
+        <div id="options"></div>
+        <button id="next" style="display: none;">Next</button>
+        <p id="result"></p>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
